@@ -46,8 +46,8 @@ This project implements **binary logistic regression from scratch using PyTorch*
 
 ```bash
 # Clone the repository
-git clone https://github.com/ak8x6/logistic-regression-pytorch.git
-cd logistic-regression-pytorch
+git clone https://github.com/ak8x6/LebNet-logistic-regression-pytorch.git
+cd LebNet-logistic-regression-pytorch
 
 # Create a virtual environment
 python -m venv .venv
@@ -66,7 +66,7 @@ jupyter notebook homework1.ipynb
 
 ```
 ├── homework1.ipynb           ← Main notebook with all solutions
-├── homework1.pdf             ← Read-only PDF version of the assignment
+├── homework1.pdf             ← Read-only PDF version of the brief
 ├── hw1_tests.py              ← Unit tests and contest submission validator
 ├── requirements.txt          ← Python dependencies
 ├── reading/
